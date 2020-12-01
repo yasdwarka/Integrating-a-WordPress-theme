@@ -13,9 +13,6 @@ This project includes :
 A text file explaining which WordPress theme was chosen and why.
 
 
-URL of the WordPress site: https://dev-hotels1.pantheonsite.io/
-
-
 A CSS file of changes made to the theme
 
 
